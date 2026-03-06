@@ -25,7 +25,7 @@ Selain di depan layar, saya mengisi waktu dengan:
 ### 📫 Mari Terhubung
 Saya selalu terbuka untuk diskusi mengenai pengembangan software atau kolaborasi proyek teknologi pertanian.
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](LINK_LINKEDIN_KAMU)
-[![](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:EMAIL_KAMU)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhamad-rizal-wihel-3430982b1/)
+[![](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:Muhamadrizalwihel@gmail.com)
 
 *"Mengubah data menjadi visi, satu baris kode demi satu baris kode."*
